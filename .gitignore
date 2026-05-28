@@ -1,5 +1,3 @@
 .DS_Store
 MMH/Build/
-MMH/BuildArtifacts/*
-!MMH/BuildArtifacts/*.zip
-MMH/BuildArtifacts/MMH-universal.zip
+MMH/BuildArtifacts/
